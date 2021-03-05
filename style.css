@@ -12,3 +12,7 @@ body {
   background-color:#402d69;
   font-family: 'DotGothic16', sans-serif;
 }
+
+.padding-bottom {
+  padding-bottom:20px;
+}
