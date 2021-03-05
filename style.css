@@ -1,13 +1,14 @@
 h1 {
-  color:#ebebeb
-  text-align:center
+  color:#ebebeb;
+  text-align:center;
 }
 
 h2 {
-  color:#ebebeb
-  text-align:center
+  color:#ebebeb;
+  text-align:center;
 }
 
 body {
-  background-color:#402d69
+  background-color:#402d69;
+  font-family: 'DotGothic16', sans-serif;
 }
