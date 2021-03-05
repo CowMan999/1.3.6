@@ -39,6 +39,6 @@ body {
 }
 
 .sidenav a:hover {
-  font-size: 23px;
-  color: red;
+  font-size: 30px;
+  color: #ff0000;
 }
