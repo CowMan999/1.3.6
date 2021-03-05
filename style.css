@@ -37,3 +37,8 @@ body {
   color: #818181;
   display: block;
 }
+
+.sidenav a:hover {
+  font-size: 23px;
+  color: red;
+}
